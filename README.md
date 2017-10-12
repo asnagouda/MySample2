@@ -4,4 +4,4 @@ New Line added
 2nd change in branch ... after checkout
 3rd line added in branch
 4th line added in branch  
-line 5 added in branch3 
+line 5 added in branch3  
