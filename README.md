@@ -12,4 +12,4 @@ line 7 added in master
 line 7 added in branch4
 line 8 added in master
 line 8 added in branch5
-line 9 added in branch6
+line 9 added in masterline 9 added in branch6
