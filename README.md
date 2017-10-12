@@ -9,3 +9,4 @@ line 5 added in branch3
 line 6 added in branch4
 line 7 added in master
 
+line 7 added in branch4
